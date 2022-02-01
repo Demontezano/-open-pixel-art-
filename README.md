@@ -1,2 +1,2 @@
-# Montezano
-Montezano
+# open-pixel-art
+open-pixel-art
